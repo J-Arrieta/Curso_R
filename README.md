@@ -22,7 +22,7 @@ Este repositorio recoge las clases, tutoriales y ejemplos del curso del programa
 ### Tabla de contenido: Parte 1
 
 1. [Introducción al curso](CC1.00_Intro.ipynb)
-2. [Procesamiento de datos](Plantilla_Preprocesado.Rmd)
+2. [Procesamiento de datos](Plantilla_Preprocesado.md)
 
 ----
 Actualmente, este curso está en construcción, por lo que el material se irá actualizando paulatinamente. 
