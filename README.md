@@ -24,6 +24,11 @@ Este repositorio recoge las clases, tutoriales y ejemplos del curso del programa
 1. [Introducción al curso](CC1.00_Intro.ipynb)
 2. [Procesamiento de datos](Plantilla_Preprocesado.md)
 
+### Material de ayuda
+
+1. Plantilla de trabajo en Overleaf: https://www.overleaf.com/6778937392gmqttzhnnyvs#1dbae4
+2. Manual estadística en R: https://bookdown.org/aquintela/EBE/ 
+
 ----
 Actualmente, este curso está en construcción, por lo que el material se irá actualizando paulatinamente. 
 ----
